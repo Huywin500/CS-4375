@@ -1,6 +1,4 @@
-# CS-4375<br />
-
-CS 4375 Intro to Machine Learning<br /><br />
+# CS 4375 Intro to Machine Learning<br /><br />
 
 [Overview of ML](Overview_of_ML.pdf) <br />
   In this pdf, I describe my definition of machine learning and its components. I also provide my personal interest in the topic.<br /><br />
