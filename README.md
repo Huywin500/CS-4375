@@ -13,9 +13,10 @@ I perform logistic regression and Naive Bayes in C++ compared to doing the algor
 [Portfolio Component: Searching for Similarity Notebook 4](https://github.com/Huywin500/CS-4375/blob/main/Notebook4.pdf)<br />
 I perform a regression model on a wine data set and then applied PCA and LDA reduction on the model to see how it changes it.<br /><br />
 [Portfolio Assignment: ML with sklearn](https://github.com/Huywin500/CS-4375/blob/main/Python%20ML%20with%20sklearn.pdf)<br />
-Using python's sklearn, I created a logisitic regression, decision tree, and neural network model on car dataset.<br /><br />
+Using python's sklearn, I created a logisitic regression, decision tree, and neural network model on car dataset.<br /><br /><br />
 
-<br /><br />
+# Overall Thoughts on Machine Learning<br /><br />
+I felt this class gave me the perfect oppotunity to dip into this field. With the rise of AI in most platforms, I felt that this was an important topic to look into. I will continue to learn about Machine learning to apply to future projects.<br /><br />
 
 # Technical Skills <br />
 C++<br />
