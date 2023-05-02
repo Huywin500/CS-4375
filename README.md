@@ -16,3 +16,20 @@ I perform a regression model on a wine data set and then applied PCA and LDA red
 Using python's sklearn, I created a logisitic regression, decision tree, and neural network model on car dataset.<br /><br />
 
 <br /><br />
+
+# Technical Skills <br />
+C++<br />
+Java<br />
+Python<br />
+R<br />
+HTML<br />
+CSS<br />
+<br />
+
+# Soft Skills <br />
+Adaptabilty<br />
+Communication<br />
+Software Management<br />
+Problem-solving<br />
+Respectful<br />
+Open to criticism<br />
